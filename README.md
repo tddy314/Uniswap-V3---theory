@@ -16,3 +16,5 @@
   - Ngược lai nếu `A < P_cur < B` thì thanh khoan của LPs vẫn còn cả 2 loại token và lúc này họ nhận được fee theo shares
   - Xét trong các band nhỏ trong khoảng giá đó, nếu giá hiện tại nằm ngoài khoảng band nào thì band đó chỉ còn 1 loại token.
  
+## Công thức
+ 
